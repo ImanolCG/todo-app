@@ -1,10 +1,10 @@
 <template>
-<h4>Crear tarea index</h4>
+<h2>Completar Tarea</h2>
 </template>
 
 <script>
 export default {
-    name: "CreateTaskIndex"
+    name: "completeTaskIndex"
 }
 </script>
 
